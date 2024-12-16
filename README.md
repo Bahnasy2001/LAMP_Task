@@ -186,7 +186,7 @@ ssh -i /path/to/your-key.pem ubuntu@<public-dns>
 Repeat the installation and configuration steps on the cloud instance. Verify that the website is accessible at:
 
 ```
-http://<Your-Public-IP>:81
+http://13.60.6.218:81
 ```
 
 ![Website in Cloud](Website_cloud_Test.png)
