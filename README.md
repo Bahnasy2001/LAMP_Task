@@ -8,11 +8,11 @@ This guide provides step-by-step instructions for setting up a basic LAMP (Linux
 
 ## 📋 Table of Contents 📋
 
-1. [🛠️ Installation 🛠️](#1--installation)
-2. [⚙️ Configuration ⚙️](#2--configuration)
-3. [🌐 Making the Website Public 🌐](#3--making-the-website-public)
-4. [📚 Networking Basics 📚](#4--networking-basics)
-5. [👤 Author 👤](#5--author)
+1. [🛠️ Installation 🛠️](#1-️-installation-️)
+2. [⚙️ Configuration ⚙️](#2-️-configuration-️)
+3. [🌐 Making the Website Public 🌐](#3--making-the-website-public-)
+4. [📚 Networking Basics 📚](#4--networking-basics-)
+5. [👤 Author 👤](#5--author-)
 
 ---
 
@@ -231,7 +231,7 @@ To connect to a remote cloud-based Linux instance (e.g., AWS EC2), follow these 
 
 ---
 
-## 5. 👤 Author👤
+## 5. 👤 Author 👤
 
 **Hassan Ahmed Fathy, El Bahnasy**  
 - [LinkedIn](https://www.linkedin.com/in/hassanbahnasy/)  
